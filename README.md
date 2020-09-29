@@ -1,2 +1,3 @@
-# CFG_Final_Project
-Catherine, Carmen, Andrea worked on this together. 
+# CSS Exercise
+
+Work through the **index.html** file and apply the required styles in the CSS file
